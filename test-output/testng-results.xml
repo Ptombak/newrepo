@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="40951" started-at="2018-04-24T23:09:56Z" finished-at="2018-04-24T23:10:37Z">
+  <suite name="Default suite" duration-ms="17668" started-at="2018-04-24T23:40:11Z" finished-at="2018-04-24T23:40:28Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="40951" started-at="2018-04-24T23:09:56Z" finished-at="2018-04-24T23:10:37Z">
+    <test name="Default test" duration-ms="17668" started-at="2018-04-24T23:40:11Z" finished-at="2018-04-24T23:40:28Z">
       <class name="demo.integretion">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:demo.integretion@724af044]" name="setUp" is-config="true" duration-ms="31448" started-at="2018-04-24T23:09:56Z" finished-at="2018-04-24T23:10:28Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:demo.integretion@724af044]" name="setUp" is-config="true" duration-ms="10379" started-at="2018-04-24T23:40:11Z" finished-at="2018-04-24T23:40:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="test()[pri:0, instance:demo.integretion@724af044]" name="test" duration-ms="8297" started-at="2018-04-24T23:10:28Z" finished-at="2018-04-24T23:10:36Z">
+        <test-method status="PASS" signature="test()[pri:0, instance:demo.integretion@724af044]" name="test" duration-ms="6060" started-at="2018-04-24T23:40:21Z" finished-at="2018-04-24T23:40:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test -->
-        <test-method status="PASS" signature="tearUp()[pri:0, instance:demo.integretion@724af044]" name="tearUp" is-config="true" duration-ms="1130" started-at="2018-04-24T23:10:36Z" finished-at="2018-04-24T23:10:37Z">
+        <test-method status="PASS" signature="tearUp()[pri:0, instance:demo.integretion@724af044]" name="tearUp" is-config="true" duration-ms="1107" started-at="2018-04-24T23:40:27Z" finished-at="2018-04-24T23:40:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearUp -->
